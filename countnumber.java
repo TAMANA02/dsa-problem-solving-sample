@@ -16,7 +16,7 @@ else if(arr[i]==1)
 countone++;
 }
 }
-System.out.print("no. of zeroes : " + countzero);
+System.out.print("no. of zeroes : " + countzero + " ");
 System.out.print("no. of ones :" + countone);
 }
 }
