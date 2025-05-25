@@ -18,7 +18,7 @@ public class Diagonalsum {
                secondary_diagonal += input_array[i][j];
          }
       }
-      System.out.println("\n The sum of principal diagonal elements of the array is: " + principal_diagonal);
-      System.out.println("\n The sum of secondary diagonal elements of the array is: " + secondary_diagonal);
+      System.out.print("\n The sum of principal diagonal elements of the array is: " + principal_diagonal);
+      System.out.print("\n The sum of secondary diagonal elements of the array is: " + secondary_diagonal);
    }
 }
