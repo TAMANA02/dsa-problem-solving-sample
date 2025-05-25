@@ -1,14 +1,14 @@
 
-class Array
+public class reverse
 {
  public static void main(String args[])
 {
   int arr[]={1,2,3,4,5};
-  for(int i=0;i<5;i++)
+  for(int i=0;i<4;i++)
   {
     System.out.print("Array :"+arr[i]);
   }
-  for(int i=5;i>=0;i--)
+  for(int i=4;i>=0;i--)
     {
     System.out.print(arr[i]+" ");
     }
